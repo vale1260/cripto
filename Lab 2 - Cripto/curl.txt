@@ -1,0 +1,18 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    127.0.0.1             127.0.0.1             HTTP     720    GET /vulnerabilities/brute/?username=admin&password=password&Login=Login HTTP/1.1 
+
+Frame 1: 720 bytes on wire (5760 bits), 720 bytes captured (5760 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 39310, Dst Port: 4280, Seq: 1, Ack: 1, Len: 654
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.003009324    127.0.0.1             127.0.0.1             HTTP     1888   HTTP/1.1 200 OK  (text/html)
+
+Frame 2: 1888 bytes on wire (15104 bits), 1888 bytes captured (15104 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 39310, Seq: 1, Ack: 655, Len: 1822
+Hypertext Transfer Protocol
+Line-based text data: text/html (109 lines)

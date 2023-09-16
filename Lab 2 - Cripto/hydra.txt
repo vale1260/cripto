@@ -1,0 +1,284 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    127.0.0.1             127.0.0.1             HTTP     160    GET /vulnerabilities/brute HTTP/1.0 
+
+Frame 1: 160 bytes on wire (1280 bits), 160 bytes captured (1280 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 54994, Dst Port: 4280, Seq: 1, Ack: 1, Len: 94
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.000020491    127.0.0.1             127.0.0.1             HTTP     160    GET /vulnerabilities/brute HTTP/1.0 
+
+Frame 2: 160 bytes on wire (1280 bits), 160 bytes captured (1280 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 54986, Dst Port: 4280, Seq: 1, Ack: 1, Len: 94
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.000020611    127.0.0.1             127.0.0.1             HTTP     160    GET /vulnerabilities/brute HTTP/1.0 
+
+Frame 3: 160 bytes on wire (1280 bits), 160 bytes captured (1280 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55018, Dst Port: 4280, Seq: 1, Ack: 1, Len: 94
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 0.000037796    127.0.0.1             127.0.0.1             HTTP     160    GET /vulnerabilities/brute HTTP/1.0 
+
+Frame 4: 160 bytes on wire (1280 bits), 160 bytes captured (1280 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 54998, Dst Port: 4280, Seq: 1, Ack: 1, Len: 94
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 0.000059549    127.0.0.1             127.0.0.1             HTTP     160    GET /vulnerabilities/brute HTTP/1.0 
+
+Frame 5: 160 bytes on wire (1280 bits), 160 bytes captured (1280 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55006, Dst Port: 4280, Seq: 1, Ack: 1, Len: 94
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 0.000473253    127.0.0.1             127.0.0.1             HTTP     639    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 6: 639 bytes on wire (5112 bits), 639 bytes captured (5112 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 54986, Seq: 1, Ack: 95, Len: 573
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 0.000486890    127.0.0.1             127.0.0.1             HTTP     639    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 7: 639 bytes on wire (5112 bits), 639 bytes captured (5112 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 54994, Seq: 1, Ack: 95, Len: 573
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 0.000505798    127.0.0.1             127.0.0.1             HTTP     639    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 8: 639 bytes on wire (5112 bits), 639 bytes captured (5112 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55018, Seq: 1, Ack: 95, Len: 573
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 0.000536639    127.0.0.1             127.0.0.1             HTTP     639    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 9: 639 bytes on wire (5112 bits), 639 bytes captured (5112 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 54998, Seq: 1, Ack: 95, Len: 573
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 0.000543873    127.0.0.1             127.0.0.1             HTTP     639    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 10: 639 bytes on wire (5112 bits), 639 bytes captured (5112 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55006, Seq: 1, Ack: 95, Len: 573
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 0.101149899    127.0.0.1             127.0.0.1             HTTP     211    GET /vulnerabilities/brute?username=admin&password=1234&Login=Login HTTP/1.0 
+
+Frame 11: 211 bytes on wire (1688 bits), 211 bytes captured (1688 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55022, Dst Port: 4280, Seq: 1, Ack: 1, Len: 145
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 0.101150200    127.0.0.1             127.0.0.1             HTTP     214    GET /vulnerabilities/brute?username=admin&password=charley&Login=Login HTTP/1.0 
+
+Frame 12: 214 bytes on wire (1712 bits), 214 bytes captured (1712 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55020, Dst Port: 4280, Seq: 1, Ack: 1, Len: 148
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 0.101176232    127.0.0.1             127.0.0.1             HTTP     215    GET /vulnerabilities/brute?username=admin&password=password&Login=Login HTTP/1.0 
+
+Frame 13: 215 bytes on wire (1720 bits), 215 bytes captured (1720 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55032, Dst Port: 4280, Seq: 1, Ack: 1, Len: 149
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 0.101305369    127.0.0.1             127.0.0.1             HTTP     213    GET /vulnerabilities/brute?username=admin&password=cripto&Login=Login HTTP/1.0 
+
+Frame 14: 213 bytes on wire (1704 bits), 213 bytes captured (1704 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55042, Dst Port: 4280, Seq: 1, Ack: 1, Len: 147
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 0.101335619    127.0.0.1             127.0.0.1             HTTP     214    GET /vulnerabilities/brute?username=admin&password=letmein&Login=Login HTTP/1.0 
+
+Frame 15: 214 bytes on wire (1712 bits), 214 bytes captured (1712 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55048, Dst Port: 4280, Seq: 1, Ack: 1, Len: 148
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 0.101761567    127.0.0.1             127.0.0.1             HTTP     737    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 16: 737 bytes on wire (5896 bits), 737 bytes captured (5896 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55032, Seq: 1, Ack: 150, Len: 671
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 0.101767259    127.0.0.1             127.0.0.1             HTTP     729    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 17: 729 bytes on wire (5832 bits), 729 bytes captured (5832 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55022, Seq: 1, Ack: 146, Len: 663
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 0.101787439    127.0.0.1             127.0.0.1             HTTP     735    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 18: 735 bytes on wire (5880 bits), 735 bytes captured (5880 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55020, Seq: 1, Ack: 149, Len: 669
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 0.101819974    127.0.0.1             127.0.0.1             HTTP     733    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 19: 733 bytes on wire (5864 bits), 733 bytes captured (5864 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55042, Seq: 1, Ack: 148, Len: 667
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 0.101820324    127.0.0.1             127.0.0.1             HTTP     735    HTTP/1.1 301 Moved Permanently  (text/html)
+
+Frame 20: 735 bytes on wire (5880 bits), 735 bytes captured (5880 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55048, Seq: 1, Ack: 149, Len: 669
+Hypertext Transfer Protocol
+Line-based text data: text/html (9 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 0.202880424    127.0.0.1             127.0.0.1             HTTP     220    GET /vulnerabilities/brute/?username=admin&password=charley&Login=Login HTTP/1.0 
+
+Frame 21: 220 bytes on wire (1760 bits), 220 bytes captured (1760 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55050, Dst Port: 4280, Seq: 1, Ack: 1, Len: 154
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 0.202880574    127.0.0.1             127.0.0.1             HTTP     221    GET /vulnerabilities/brute/?username=admin&password=password&Login=Login HTTP/1.0 
+
+Frame 22: 221 bytes on wire (1768 bits), 221 bytes captured (1768 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55052, Dst Port: 4280, Seq: 1, Ack: 1, Len: 155
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 0.202884051    127.0.0.1             127.0.0.1             HTTP     217    GET /vulnerabilities/brute/?username=admin&password=1234&Login=Login HTTP/1.0 
+
+Frame 23: 217 bytes on wire (1736 bits), 217 bytes captured (1736 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55054, Dst Port: 4280, Seq: 1, Ack: 1, Len: 151
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 0.203008038    127.0.0.1             127.0.0.1             HTTP     220    GET /vulnerabilities/brute/?username=admin&password=letmein&Login=Login HTTP/1.0 
+
+Frame 24: 220 bytes on wire (1760 bits), 220 bytes captured (1760 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55070, Dst Port: 4280, Seq: 1, Ack: 1, Len: 154
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 0.203008319    127.0.0.1             127.0.0.1             HTTP     219    GET /vulnerabilities/brute/?username=admin&password=cripto&Login=Login HTTP/1.0 
+
+Frame 25: 219 bytes on wire (1752 bits), 219 bytes captured (1752 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 55086, Dst Port: 4280, Seq: 1, Ack: 1, Len: 153
+Hypertext Transfer Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 0.203597472    127.0.0.1             127.0.0.1             HTTP     673    HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 26: 673 bytes on wire (5384 bits), 673 bytes captured (5384 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55050, Seq: 1, Ack: 155, Len: 607
+Hypertext Transfer Protocol
+Line-based text data: text/html (12 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 0.203605037    127.0.0.1             127.0.0.1             HTTP     673    HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 27: 673 bytes on wire (5384 bits), 673 bytes captured (5384 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55070, Seq: 1, Ack: 155, Len: 607
+Hypertext Transfer Protocol
+Line-based text data: text/html (12 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 0.203616911    127.0.0.1             127.0.0.1             HTTP     673    HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 28: 673 bytes on wire (5384 bits), 673 bytes captured (5384 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55052, Seq: 1, Ack: 156, Len: 607
+Hypertext Transfer Protocol
+Line-based text data: text/html (12 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 0.203652902    127.0.0.1             127.0.0.1             HTTP     673    HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 29: 673 bytes on wire (5384 bits), 673 bytes captured (5384 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55054, Seq: 1, Ack: 152, Len: 607
+Hypertext Transfer Protocol
+Line-based text data: text/html (12 lines)
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 0.203656640    127.0.0.1             127.0.0.1             HTTP     673    HTTP/1.1 400 Bad Request  (text/html)
+
+Frame 30: 673 bytes on wire (5384 bits), 673 bytes captured (5384 bits) on interface lo, id 0
+Ethernet II, Src: 00:00:00_00:00:00 (00:00:00:00:00:00), Dst: 00:00:00_00:00:00 (00:00:00:00:00:00)
+Internet Protocol Version 4, Src: 127.0.0.1, Dst: 127.0.0.1
+Transmission Control Protocol, Src Port: 4280, Dst Port: 55086, Seq: 1, Ack: 154, Len: 607
+Hypertext Transfer Protocol
+Line-based text data: text/html (12 lines)
